@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<rsd version="1.0" xmlns="http://archipelago.phrasewise.com/rsd">
+<service>
+<engineName>Movable Type Pro 4.3-en</engineName>
+<engineLink>http://www.sixapart.com/movabletype/</engineLink>
+<homePageLink>http://itdied.com/</homePageLink>
+<apis>
+<api name="MetaWeblog" preferred="true" apiLink="https://db.isbn.nu/mt4/mt-xmlrpc.cgi" blogID="25" />
+<api name="MovableType" preferred="false" apiLink="https://db.isbn.nu/mt4/mt-xmlrpc.cgi" blogID="25" />
+<api name="Blogger" preferred="false" apiLink="https://db.isbn.nu/mt4/mt-xmlrpc.cgi" blogID="25" />
+<api name="Atom" preferred="false" apiLink="https://db.isbn.nu/mt4/mt-atom.cgi/weblog" blogID="25" />
+</apis>
+</service>
+</rsd>

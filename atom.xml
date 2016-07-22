@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>It Died</title>
+    <link rel="alternate" type="text/html" href="http://itdied.com/" />
+    <link rel="self" type="application/atom+xml" href="http://itdied.com/atom.xml" />
+    <id>tag:itdied.com,2008-11-16://25</id>
+    <updated>2010-02-08T18:00:03Z</updated>
+    <subtitle>A compendium of what services and companies are no longer available for our Internet pleasure and use.</subtitle>
+    <generator uri="http://www.sixapart.com/movabletype/">Movable Type Pro 4.3-en</generator>
+
+<entry>
+    <title>FTP at Blogger.com on 26 March 2010</title>
+    <link rel="alternate" type="text/html" href="http://itdied.com/2010/02/ftp-at-bloggercom-on-26-march-2010.html" />
+    <id>tag:itdied.com,2010://25.14372</id>
+
+    <published>2010-02-02T23:08:01Z</published>
+    <updated>2010-02-08T18:00:03Z</updated>
+
+    <summary>Blogger, a Google division, will turn the ability to update a site via FTP/SFTP on 26 March 2010: Blogger has long allowed its users to publish sites using its tools to other servers under the control of users using the...</summary>
+    <author>
+        <name>Glenn Fleishman</name>
+        <uri>http://glennf.com</uri>
+    </author>
+    
+        <category term="Consumer" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="Social media" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="Web hosting" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    <category term="antique" label="antique" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="google" label="google" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="en" xml:base="http://itdied.com/">
+        <![CDATA[<a href="http://blogger-ftp.blogspot.com/2010/01/deprecating-ftp.html"><strong>Blogger, a Google division, will turn the ability to update a site via FTP/SFTP on 26 March 2010:</strong></a> Blogger has long allowed its users to publish sites using its tools to other servers under the control of users using the ancient FTP and newer secure FTP (SFTP) protocols. (They are not the same thing, but look the same from the outside.)
+
+This let someone use the power of the Blogger system to manage and publish posts without having to have content hosted on Blogger/Google's servers. It's not a surprise it's going away because it's tweaky thing to set up in the first place. Most people who want that kind of functionality would have moved to a self-hosted or ISP-based Movable Type or WordPress installation.
+
+Blogger says that only 0.5 percent of sites use FTP, but that vastly more engineering resources are needed to keep the FTP system working, and that the core technology that supports this publication method will be going away shortly from Google as a whole.]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Microsoft Pulls ThumbTack Bookmarking Service</title>
+    <link rel="alternate" type="text/html" href="http://itdied.com/2009/11/microsoft-pulls-thumbtack-bookmarking-service.html" />
+    <id>tag:itdied.com,2009://25.14306</id>
+
+    <published>2009-11-03T17:19:35Z</published>
+    <updated>2009-11-03T17:19:38Z</updated>
+
+    <summary>Microsoft has closed down its ThumbTack service for bookmarking: The service at Live Labs let you save all manner of things, including links and photos, in a single place for later retrieval or viewing. Because this was a &quot;lab&quot; experiment,...</summary>
+    <author>
+        <name>Glenn Fleishman</name>
+        <uri>http://glennf.com</uri>
+    </author>
+    
+        <category term="Consumer" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="Contact, calendar, notes" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    <category term="microsoft" label="microsoft" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="en" xml:base="http://itdied.com/">
+        <![CDATA[<a href="http://blogs.zdnet.com/microsoft/?p=4404&tag=col1;post-4404"><strong>Microsoft has closed down its ThumbTack service for bookmarking:</strong></a> The service at Live Labs let you save all manner of things, including links and photos, in a single place for later retrieval or viewing. Because this was a "lab" experiment, nothing was guaranteed. If you go to the <a href="http://livelabs.com/thumbtack/"><strong>ThumbTack site</strong></a> today, it still encourages you to sign up--and directs you to a dead site.]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Geocities Last Day</title>
+    <link rel="alternate" type="text/html" href="http://itdied.com/2009/10/geocities-last-day.html" />
+    <id>tag:itdied.com,2009://25.14297</id>
+
+    <published>2009-10-26T19:49:55Z</published>
+    <updated>2009-10-26T19:49:59Z</updated>
+
+    <summary>As Geocities sinks slowly into the sea, let us praise great BLINK tags: Buh-bye, Geocities. I&apos;d say we hardly knew ya, but we knew ya all too well. xkcd, the great Webcomic, offers up a perfect parody (may only be...</summary>
+    <author>
+        <name>Glenn Fleishman</name>
+        <uri>http://glennf.com</uri>
+    </author>
+    
+        <category term="Consumer" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="Web hosting" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    
+    <content type="html" xml:lang="en" xml:base="http://itdied.com/">
+        <![CDATA[<a href="http://help.yahoo.com/l/us/yahoo/geocities/close/close-01.html"><strong>As Geocities sinks slowly into the sea, let us praise great BLINK tags:</strong></a> Buh-bye, Geocities. I'd say we hardly knew ya, but we knew ya all too well.
+
+xkcd, the great Webcomic, <a href="http://xkcd.com/"><strong>offers up a perfect parody</strong></a> (may only be available on 26 October, however).]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Happy News: Tr.im Lives!</title>
+    <link rel="alternate" type="text/html" href="http://itdied.com/2009/08/happy-news-trim-lives.html" />
+    <id>tag:itdied.com,2009://25.14262</id>
+
+    <published>2009-08-19T17:06:55Z</published>
+    <updated>2009-08-19T17:06:58Z</updated>
+
+    <summary>O happy day, here at itdied.com: The tr.im URL shortener service has opted to stay alive instead of shutdown. Shortcut services have a hard time making money because their job is to stay out of the way. After a flood...</summary>
+    <author>
+        <name>Glenn Fleishman</name>
+        <uri>http://glennf.com</uri>
+    </author>
+    
+        <category term="Consumer" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="Social media" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    <category term="shortener" label="shortener" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="unique" label="unique" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="en" xml:base="http://itdied.com/">
+        <![CDATA[<a href="http://blog.tr.im/post/165049236/tr-im-to-be-community-owned"><strong>O happy day, here at itdied.com:</strong></a> The tr.im URL shortener service has opted to stay alive instead of shutdown. Shortcut services have a hard time making money because their job is to stay out of the way. After a flood of "how can we help" messages from users, tr.im's parent firm, Nambu Network, is moving the service into a community-operated mode, details to follow. The company will transfer the domain name, databases, and software, and hopes that it can be run via donations and other means. The CEO of Nambu will pay all expenses out of his pocket until funding can be worked out.
+
+ItLives!]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Tr.im Trimmed</title>
+    <link rel="alternate" type="text/html" href="http://itdied.com/2009/08/trim-trimmed.html" />
+    <id>tag:itdied.com,2009://25.14260</id>
+
+    <published>2009-08-10T05:06:42Z</published>
+    <updated>2009-08-10T05:06:46Z</updated>
+
+    <summary>The tr.im URL shortening service has shortened its lifespan: The service will no guarantee redirects for URLs starting 31-Dec-2009, and has disclaimed the reliability of its statistics from this point on. Tr.im, like other URL shorteners, generates a short unique...</summary>
+    <author>
+        <name>Glenn Fleishman</name>
+        <uri>http://glennf.com</uri>
+    </author>
+    
+        <category term="Consumer" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="Social media" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    <category term="shorteners" label="shorteners" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="en" xml:base="http://itdied.com/">
+        <![CDATA[<p><strong><a href="http://tr.im/">The tr.im URL shortening service has shortened its lifespan:</a></strong> The service will no guarantee redirects for URLs starting 31-Dec-2009, and has disclaimed the reliability of its statistics from this point on.</p>
+
+<p>Tr.im, like other URL shorteners, generates a short unique code that someone can use in place of a full URL. Full URLs often have long sets of words in them for search engine optimization and human readability. These long URLs fall afoul of social media sites which either break these strings funny or, like Twitter, limit text. </p>
+
+<p>It's hard to get money out of URL shortening because there are so many services, and the service performed is non-unique. Many firms have tried to add value to shortening by providing extras, like future redirection (if the destination URL has changed), statistics, and other efforts. I don't know of any that have stuck because it's a marginal utility function.</p>
+
+<p>On the flip side, URL shorteners must be reliable, safe, and fast. The ones that don't meet those criteria wind up being quickly abandoned. </p>
+
+<p>Twitter accelerated the usage of URL shorteners without any commensurate method for those firms to accelerate revenue or revenue potential. Tr.im cried uncle, and is taking its ball and bat elsewhere.</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Soapbox Dries Out on 31-August-2009</title>
+    <link rel="alternate" type="text/html" href="http://itdied.com/2009/07/soapbox-dries-out-on-31-august-2009.html" />
+    <id>tag:itdied.com,2009://25.14247</id>
+
+    <published>2009-07-22T01:55:07Z</published>
+    <updated>2009-07-22T01:55:10Z</updated>
+
+    <summary>Microsoft is shutting down its Soapbox video service that no one knew existed: Soapbox allowed users to upload videos, which appeared on MSN Video, a service that will remain, but which doesn&apos;t (seemingly) allow amateur/personal contributions. Soapbox will stop allowing...</summary>
+    <author>
+        <name>Glenn Fleishman</name>
+        <uri>http://glennf.com</uri>
+    </author>
+    
+        <category term="Video hosting" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    <category term="microsoft" label="microsoft" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="video" label="video" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="en" xml:base="http://itdied.com/">
+        <![CDATA[<p><strong><a href="http://news.cnet.com/8301-10805_3-10292031-75.html?part=rss&subj=news&tag=2547-1_3-0-5">Microsoft is shutting down its Soapbox video service that no one knew existed:</a></strong> Soapbox allowed users to upload videos, which appeared on MSN Video, a service that will remain, but which doesn't (seemingly) allow amateur/personal contributions. </p>
+
+<p>Soapbox will stop allowing uploads on 29-July, and shut down entirely on 31-August. </p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>CompuServe Classic Powered Down 29-June-2009</title>
+    <link rel="alternate" type="text/html" href="http://itdied.com/2009/07/compuserve-classic-powered-down-29-june-2009.html" />
+    <id>tag:itdied.com,2009://25.14236</id>
+
+    <published>2009-07-04T21:23:31Z</published>
+    <updated>2009-07-04T21:23:34Z</updated>
+
+    <summary>CompuServe Classic finally succumbs: CompuServe was one of the very earliest commercial dial-up bulletin board systems, well known for its &quot;CB radio&quot; chat program, which worked much like IRC. I was a CompuServe user back in 1979, with a 9...</summary>
+    <author>
+        <name>Glenn Fleishman</name>
+        <uri>http://glennf.com</uri>
+    </author>
+    
+        <category term="Consumer" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="Unique" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    
+    <content type="html" xml:lang="en" xml:base="http://itdied.com/">
+        <![CDATA[<p><strong><a href="http://www.basexblog.com/2009/07/03/compuserve-requiem/">CompuServe Classic finally succumbs:</a></strong> CompuServe was one of the very earliest commercial dial-up bulletin board systems, well known for its "CB radio" chat program, which worked much like IRC. I was a CompuServe user back in 1979, with a 9 digit (70000,0000 format) ID. Exciting, heady days when one stuck a phone handset into an acoustic coupled 110-baud modem connected to your character-based 1 MHz computer.</p>
+
+<p>IF you were still a classic user, you can <strong><a href="http://member.compuserve.com/mailcenter/default.jsp">convert your email over</a></strong>.</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Flowgram Halts on 30-June-2009</title>
+    <link rel="alternate" type="text/html" href="http://itdied.com/2009/06/flowgram-halts-on-30-june-2009.html" />
+    <id>tag:itdied.com,2009://25.14228</id>
+
+    <published>2009-06-12T17:52:14Z</published>
+    <updated>2009-06-12T17:52:16Z</updated>
+
+    <summary>The site devoted to helping create guided presentations is shutting down on 30-June-2009: Flowgram said in email to users that it couldn&apos;t figure out a financial model to continue. While Flowgram presentations won&apos;t be playable after 30-June or editable, they...</summary>
+    <author>
+        <name>Glenn Fleishman</name>
+        <uri>http://glennf.com</uri>
+    </author>
+    
+        <category term="Consumer" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="General" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="Video streaming" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    
+    <content type="html" xml:lang="en" xml:base="http://itdied.com/">
+        <![CDATA[<a href="http://www.flowgram.com/"><strong>The site devoted to helping create guided presentations is shutting down on 30-June-2009:</strong></a> Flowgram said in email to users that it couldn't figure out a financial model to continue. While Flowgram presentations won't be playable after 30-June or editable, they can be exported as videos. The company provided instructions: 
+
+"...You can export them to video by clicking 'share' from the website or 'more sharing options' from the Flowgram player and scrolling down to the export to video section."
+]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Yahoo 360 Gets 86&apos;d 13-July-2009</title>
+    <link rel="alternate" type="text/html" href="http://itdied.com/2009/06/yahoo-360-gets-86d-13-july-2009.html" />
+    <id>tag:itdied.com,2009://25.14222</id>
+
+    <published>2009-06-01T16:59:43Z</published>
+    <updated>2009-06-01T16:59:46Z</updated>
+
+    <summary>The Yahoo 360° social networking blog thing, which has been under a death watch for two years, finally dives 13-July-2009: The service is notable for combining blogging and a host of other things, but Yahoo couldn&apos;t either figure out how...</summary>
+    <author>
+        <name>Glenn Fleishman</name>
+        <uri>http://glennf.com</uri>
+    </author>
+    
+        <category term="Consumer" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="Social media" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    <category term="yahoo" label="yahoo" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="en" xml:base="http://itdied.com/">
+        <![CDATA[<a href="http://help.yahoo.com/l/us/yahoo/360/shutdown/"><strong>The Yahoo 360° social networking blog thing, which has been under a death watch for two years, finally dives 13-July-2009:</strong></a> The service is notable for combining blogging and a host of other things, but Yahoo couldn't either figure out how to capitalize it or develop a new service to move content to, despite such a general promise two years ago. Now the service is slated to shut down, and you can migrate any remaining content out. (Thanks, Aristotle!)]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Jumpcut Skips Away 15-June-2009</title>
+    <link rel="alternate" type="text/html" href="http://itdied.com/2009/05/jumpcut-skips-away-15-june-2009.html" />
+    <id>tag:itdied.com,2009://25.14217</id>
+
+    <published>2009-05-22T18:03:10Z</published>
+    <updated>2009-05-22T18:03:14Z</updated>
+
+    <summary>Video content sharing site Jumpcut is closing its virtual doors 15-June-2009: I wasn&apos;t aware of this site, but it appears to be a place where you can upload video, share it with others, edit together your own and other segments,...</summary>
+    <author>
+        <name>Glenn Fleishman</name>
+        <uri>http://glennf.com</uri>
+    </author>
+    
+        <category term="Consumer" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="Video hosting" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    <category term="video" label="video" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="yahoo" label="yahoo" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="en" xml:base="http://itdied.com/">
+        <![CDATA[<a href="http://www.jumpcut.com/"><strong>Video content sharing site Jumpcut is closing its virtual doors 15-June-2009:</strong></a> I wasn't aware of this site, but it appears to be a place where you can upload video, share it with others, edit together your own and other segments, and publish videos for public consumption. All uploaded content <a href="http://www.jumpcut.com/myhome/?subnav=download"><strong>can be downloaded</strong></a>.]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Trusera Suffers Heartbreak of Fund Shortage 27-May-2009</title>
+    <link rel="alternate" type="text/html" href="http://itdied.com/2009/05/trusera-suffers-heartbreak-of-fund-shortage-27-may-2009.html" />
+    <id>tag:itdied.com,2009://25.14215</id>
+
+    <published>2009-05-20T22:30:15Z</published>
+    <updated>2009-05-20T22:30:18Z</updated>
+
+    <summary>Seattle site Trusera, a forum for exchanging health and wellness info, shuts down 27-May-2009: If you created a blog or used the site in some other fashion, the company already offers an RSS export feature that you can use to...</summary>
+    <author>
+        <name>Glenn Fleishman</name>
+        <uri>http://glennf.com</uri>
+    </author>
+    
+        <category term="Consumer" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    
+    <content type="html" xml:lang="en" xml:base="http://itdied.com/">
+        <![CDATA[<a href="http://www.trusera.com/health/journals/billy/billy-s-journal/faq-on-trusera-s-closure-on-may-27-2009?utm_source=Trusera+Members+(Subscribers+Only)&utm_campaign=46cefb83cc-All_Members_Close_May_27&utm_medium=email"><strong>Seattle site Trusera, a forum for exchanging health and wellness info, shuts down 27-May-2009:</strong></a> If you created a blog or used the site in some other fashion, the company <a href="http://www.trusera.com/health/journals/billy/billy-s-journal/new-feature-export-your-content"><strong>already offers an RSS export feature</strong></a> that you can use to extract your data.]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Geocities Stops Its Orbit Later This Year</title>
+    <link rel="alternate" type="text/html" href="http://itdied.com/2009/04/geocities-stops-its-orbit-later-this-year.html" />
+    <id>tag:itdied.com,2009://25.14193</id>
+
+    <published>2009-04-24T04:09:44Z</published>
+    <updated>2009-04-24T04:09:47Z</updated>
+
+    <summary>Yahoo says its shutting down the hoary Geocities &quot;later this year&quot;: Geocities was an early Web hosting site that allowed its members to create truly horrible, horrible designs that by today&apos;s standards would cause your eyeballs to melt out of...</summary>
+    <author>
+        <name>Glenn Fleishman</name>
+        <uri>http://glennf.com</uri>
+    </author>
+    
+        <category term="Consumer" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="Web hosting" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    <category term="yahoo" label="yahoo" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="en" xml:base="http://itdied.com/">
+        <![CDATA[<p><strong><a href="http://help.yahoo.com/l/us/yahoo/geocities/geocities-05.html">Yahoo says its shutting down the hoary Geocities "later this year":</a></strong> Geocities was an early Web hosting site that allowed its members to create truly horrible, horrible designs that by today's standards would cause your eyeballs to melt out of their sockets. Honestly, the sites were ugly even in the mid-1990s. Yahoo bought Geocities 10 years ago for the hilarious sum of $4.6 billion (largely stock, as I recall). The site, which offers free hosting, still sees 12 million unique visitors per month.</p>
+
+<p>Later this year, Yahoo will provide more migration details before it shuts everything down for good. Yahoo has paid hosting options ($5/month for 12 months, then $10/month), including a domain name, email, and so forth. </p>
+
+<p>Yahoo's hosted services offer unlimited disk space, data transfer, and email storage, but the boys and girls at Yahoo like to define unlimited to mean whatever they want it to mean, something that's gotten other companies (like Verizon) in trouble before. Read this bit of nonsense:</p>
+
+<p>"If you use your services consistently with the Terms of Service and these paragraphs, your site can grow as large as necessary to meet your small business needs, but to ensure a great experience for all, we will place some constraints on how fast you can grow. The vast majority of our customers' sites grow at rates well within our rules, but our abuse controls may cause a brief delay while we evaluate if expansion is appropriate."</p>
+
+<p>Which means, "We have rules, which we're not telling you, because we think you'll game the system, because we don't trust you, and we're the adults, and even though we don't tell you the rules, we're judging by these secret rules while pretending that 'unlimited' means 'whatever amount we decide secretly you deserve.'"</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>Shutterfly Reaffirms Free, Eternal, High-Res Storage</title>
+    <link rel="alternate" type="text/html" href="http://itdied.com/2009/04/shutterfly-reaffirms-free-eternal-high-res-storage.html" />
+    <id>tag:itdied.com,2009://25.14186</id>
+
+    <published>2009-04-12T17:24:51Z</published>
+    <updated>2009-04-12T17:24:54Z</updated>
+
+    <summary>After Kodak&apos;s announcement that without a purchase, pictures go boom, Shutterfly restates its intent: Shutterfly has no minimum yearly purchase (or ever) to keep accounts active, and archives photos at full resolution....</summary>
+    <author>
+        <name>Glenn Fleishman</name>
+        <uri>http://glennf.com</uri>
+    </author>
+    
+        <category term="Consumer" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="Photography" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    
+    <content type="html" xml:lang="en" xml:base="http://itdied.com/">
+        <![CDATA[<p><strong><a href="http://www.shutterfly.com/index.jsp">After Kodak's announcement that without a purchase, pictures go boom, Shutterfly restates its intent:</a></strong> Shutterfly has no minimum yearly purchase (or ever) to keep accounts active, and archives photos at full resolution.</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>HomePage Evicted, Groups Disbanded 7-July-2009</title>
+    <link rel="alternate" type="text/html" href="http://itdied.com/2009/04/homepage-evicted-groups-disbanded-7-july-2009.html" />
+    <id>tag:itdied.com,2009://25.14185</id>
+
+    <published>2009-04-09T22:28:29Z</published>
+    <updated>2009-04-09T22:28:51Z</updated>
+
+    <summary>Apple slams door on HomePage on 7-July-2009: The Web-based page-building tools in MobileMe (the service formerly known as .Mac) will be removed. Any published Web pages will remain in place. However, pages can&apos;t be edited or deleted. Which means that...</summary>
+    <author>
+        <name>Glenn Fleishman</name>
+        <uri>http://glennf.com</uri>
+    </author>
+    
+        <category term="Consumer" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="Photography" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="Storage" scheme="http://www.sixapart.com/ns/types#category" />
+    
+        <category term="Web hosting" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    <category term="apple" label="apple" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="webhosting" label="web hosting" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="en" xml:base="http://itdied.com/">
+        <![CDATA[<p><a href="http://www.mac.com/1/homepage/"><strong>Apple slams door on HomePage on 7-July-2009:</strong></a> The Web-based page-building tools in MobileMe (the service formerly known as .Mac) will be removed. Any published Web pages will remain in place. However, pages can't be edited or deleted. Which means that if you don't want a permanent archive of a page about your cat that you posted 4 years ago in a fit of sleeplessness, now is the time to remove it. Apple no longer offers a Web-based site building tool, but the firm sells iWeb for Mac OS X for creating simple and rich media sites and blogs. </p>
+
+<p><a href="http://support.apple.com/kb/HT2050"><strong>Apple is also killing Groups on 7-July, as was previously known:</strong></a> Groups was a way to share content among several people who would be granted pooled storage as well as a group email list. Content will be shunted to a Groups folder in the group creator's MobileMe iDisk labeled "Groups Archive". Groups features will simply stop working on that date.</p>]]>
+        
+    </content>
+</entry>
+
+<entry>
+    <title>It Lives! FileFront Avoids End of Line</title>
+    <link rel="alternate" type="text/html" href="http://itdied.com/2009/04/it-lives-filefront-avoids-end-of-line.html" />
+    <id>tag:itdied.com,2009://25.14181</id>
+
+    <published>2009-04-04T16:11:08Z</published>
+    <updated>2009-04-04T16:11:11Z</updated>
+
+    <summary>Rare good news from your faithful daethwatcher: FileFront was acquired by its original developers from Ziff Davis, averting the shutdown and deletion of terabytes of user gaming-related data last week....</summary>
+    <author>
+        <name>Glenn Fleishman</name>
+        <uri>http://glennf.com</uri>
+    </author>
+    
+        <category term="Good News!" scheme="http://www.sixapart.com/ns/types#category" />
+    
+    <category term="gaming" label="gaming" scheme="http://www.sixapart.com/ns/types#tag" />
+    <category term="ziffdavis" label="ziff davis" scheme="http://www.sixapart.com/ns/types#tag" />
+    
+    <content type="html" xml:lang="en" xml:base="http://itdied.com/">
+        <![CDATA[<p><strong><a href="http://welcome.filefront.com/">Rare good news from your faithful daethwatcher:</a></strong> FileFront was acquired by its original developers from Ziff Davis, averting the shutdown and deletion of terabytes of user gaming-related data last week.</p>]]>
+        
+    </content>
+</entry>
+
+</feed>
